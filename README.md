@@ -1,3 +1,3 @@
 # CODSOFT
-For Project Landing Page Click Here.
+1) Project : Landing Page.
 https://sanchitkharade.github.io/CODSOFT/Landing%20Page
